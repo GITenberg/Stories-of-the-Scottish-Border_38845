@@ -1,0 +1,39 @@
+_repo: Stories-of-the-Scottish-Border_38845
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, Morris Meredith
+    aliases:
+    - Williams, M. Meredith
+    - Williams, Morris M.
+    gutenberg_agent_id: '38907'
+    url: http://www.gutenberg.org/2009/agents/38907
+covers:
+- cover_type: archival
+  image_path: 38845-rst/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Platt, William, Mrs.
+    alias: Platt, Mrs. William
+    gutenberg_agent_id: '40924'
+    url: http://www.gutenberg.org/2009/agents/40924
+  - agent_name: Platt, William
+    birthdate: 1867
+    gutenberg_agent_id: '42088'
+    url: http://www.gutenberg.org/2009/agents/42088
+description: ''
+gutenberg_issued: '2013-07-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38845'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Ballads'
+- !lcsh 'Scotland -- History'
+- !lcsh 'Great Britain -- History'
+title: Stories of the Scottish Border
+url: http://www.gutenberg.org/ebooks/38845
